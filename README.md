@@ -3,8 +3,8 @@ Python Twitter Simple Sentiement Analyst With Tweepy
 
 ---
 
-##instalation
+###instalation
 ```pip install -r requirements.txt```
 
-##run program
+###run program
 ```python sentiment.py```
